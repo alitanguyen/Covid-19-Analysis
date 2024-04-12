@@ -16,8 +16,8 @@ This project is inspired by Alex Freberg’s Data Analyst Portfolio Project. The
     - [2. Visualize the data](#2-visualize-the-data)
 
 *Quick Links:* 
-- [Github SQL Code for Data Exploration]
-- [Github SQL Code for Data Visualization] 
+- [Github SQL Code for Data Exploration](https://github.com/alitanguyen/Covid-19-Analysis/blob/main/Covid_Project_Data_Exploration.sql)
+- [Github SQL Code for Data Visualization](https://github.com/alitanguyen/Covid-19-Analysis/blob/main/Covid_Project_Data_Visualization.sql) 
 - [Tableau Dashboard](https://public.tableau.com/app/profile/anh.nguyen1487/viz/CovidDashboard_17124002483410/Dashboard1)
 
 ## **Dataset**
