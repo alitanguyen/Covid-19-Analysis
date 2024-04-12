@@ -149,7 +149,7 @@ GROUP BY continent
 ORDER BY highest_death_rate DESC;
 ```
 
-<img src="Images/07_Highest_Death_and Infection_Count_and_Rate.png" alt="Alt Text" width="400"> </br>
+<img src="Images/07_Highest_Death_and Infection_Count_and_Rate.png" alt="Alt Text" width="600"> </br>
 
 ### **5. Analysis by Date**
 
@@ -280,7 +280,7 @@ GROUP BY continent
 ORDER BY total_death_count DESC;
 ```
 
-<img src="Images/13_Data_Viz2.png" alt="Alt Text" width="400">
+<img src="Images/13_Data_Viz2.png" alt="Alt Text" width="300">  </br>
 
 **1.3 Calculate the highest infection count and the highest infection rate by population** 
 
@@ -320,4 +320,4 @@ I imported four Excel files to Tableau for data visualization.
 
 Below is my final dashboard. You can also view it [here](https://public.tableau.com/app/profile/anh.nguyen1487/viz/CovidDashboard_17124002483410/Dashboard1). 
 
-<img src="Images/16_Dashboard.png" alt="Alt Text" width="800">
+<img src="Images/16_Dashboard.png" alt="Alt Text" width="700">
